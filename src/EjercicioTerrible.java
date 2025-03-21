@@ -4,44 +4,44 @@ public class EjercicioTerrible {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
 
-        System.out.println("Ingrese el nombre del primer estudiante:");
-        String a = x.nextLine();
-        System.out.println("Ingrese la edad:");
-        int b = x.nextInt();
-        x.nextLine();
+        System.out.println("pedro:");
+        String  = Scanner=a.nextLine();
+        System.out.println("17 años:");
+        int b = Scanner.nextInt();
+        Scanner.nextLine();
 
-        System.out.println("Ingrese el nombre del segundo estudiante:");
-        String c = x.nextLine();
-        System.out.println("Ingrese la edad:");
-        float d = x.nextFloat();
-        x.nextLine();
+        System.out.println("laura:");
+        String c = Scanner.nextLine();
+        System.out.println("18 años:");
+        float d = Scanner.nextFloat();
+        Scanner.nextLine();
 
-        System.out.println("Ingrese el nombre del tercer estudiante:");
-        String e = x.nextLine();
-        System.out.println("Ingrese la edad:");
-        double f = x.nextDouble();
-        x.nextLine();
+        System.out.println("luis:");
+        String e = Scanner.nextLine();
+        System.out.println("18:");
+        double f = Scanner.nextDouble();
+        Scanner.nextLine();
 
-        System.out.println("Ingrese el nombre del cuarto estudiante:");
-        String g = x.nextLine();
-        System.out.println("Ingrese la edad:");
-        short h = x.nextShort();
-        x.nextLine();
+        System.out.println("sandra:");
+        String g = Scanner.nextLine();
+        System.out.println("16 años:");
+        short h =Scanner.nextShort();
+        Scanner.nextLine();
 
-        System.out.println("Ingrese el nombre del quinto estudiante:");
-        String i = x.nextLine();
-        System.out.println("Ingrese la edad:");
-        byte j = x.nextByte();
-        x.nextLine();
+        System.out.println("maría:");
+        String i = Scanner.nextLine();
+        System.out.println("19 años:");
+        byte j = Scanner.nextByte();
+        Scanner.nextLine();
 
         double y = (b + d + f + h + j) / 5;
 
-        System.out.println("Edad promedio de los estudiantes: " + y);
+        System.out.println("17,18,17,16,19: " + y);
 
-        if (b > 17) {
-            System.out.println(a + " es mayor de edad");
-        } else {
-            System.out.println(a + " es menor de edad");
+        if (b > 17) {laura}
+            System.out.println(a + " 18");
+        } else {pedro}
+            System.out.println(a + " 17");
         }
 
         if (d > 17) {
@@ -70,4 +70,6 @@ public class EjercicioTerrible {
 
         System.out.println("Programa finalizado.");
     }
-}
+operador%
+
+
